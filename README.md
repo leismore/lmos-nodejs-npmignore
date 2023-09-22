@@ -22,6 +22,13 @@ GNU GENERAL PUBLIC LICENSE v3
 
 * [Kyle Chine](https://kyle-chine.leismore.co) since 21 Feb 2021
 
+## References
+
+* NPM Docs: Developer Guide (NPM CLI v10) -> Keeping files out of your Package <https://docs.npmjs.com/cli/v10/using-npm/developers?v=true#keeping-files-out-of-your-package>
+
+
+
+
 ---
 
 [![Leismore Logo](https://logos.leismore.co/en/3-0-0/light/textual-margins.svg)](https://lmos.leismore.org)
