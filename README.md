@@ -19,9 +19,15 @@ The top-level directories of a LMOS-Node.js project are:
 
 ## License
 
-© [Leismore](https://www.leismore.co) 2025
+© [Leismore™](https://www.leismore.co) 2026
 
-[MIT License](https://choosealicense.com/licenses/mit)
+[MIT License](https://github.com/leismore/lmos-nodejs-npmignore/blob/main/LICENSE)
+
+## Donation
+
+* [Leismore™](https://github.com/sponsors/leismore) on GitHub
+
+Help us to pay our bills, so we can focus on developing and maintaining this project.
 
 ## Authors
 
@@ -36,6 +42,6 @@ The top-level directories of a LMOS-Node.js project are:
 
 ------------------------------------------------------------------------------
 
-Product of [Leismore OpenSource](https://lmos.leismore.org) Project
+Product of [Leismore™ OpenSource](https://lmos.leismore.org) Project
 
-Supported by [Leismore](https://www.leismore.co) (Australian Business Number: 25 935 862 619)
+Supported by [Leismore™](https://www.leismore.co) (Australian Business Number: 25 935 862 619)
